@@ -1,3 +1,3 @@
-#A Simple Gallery
+# A Simple Gallery
 
-It's just a simple gallery in a html file, download it and run in the browser.
+It's just a simple gallery that I hosted on [github](https://douglas571.github.io/simple-gallery).
